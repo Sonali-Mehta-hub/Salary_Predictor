@@ -90,7 +90,7 @@ Upload a CSV with the same columns → App predicts for all rows.
 ![Home Page](assets/screenshot_614.png)
 
 🔮 Manual Prediction Form  
-![Manual Prediction](assets/screenshot_612.png)
+![Manual Prediction](https://github.com/Sonali-Mehta-hub/Salary_Predictor/blob/main/assets/Screenshot%20(612).png)
 
 📂 Batch Prediction Results  
 ![Batch Prediction](assets/screenshot_615.png)
