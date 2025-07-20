@@ -86,17 +86,18 @@ Upload a CSV with the same columns → App predicts for all rows.
 
 ## 📷 Screenshots
 
-### 🏠 Home Page  
-![Home Page](assets\Screenshot (614).png)
+🏠 Home Page  
+![Home Page](assets/screenshot_614.png)
 
-### 🔮 Manual Prediction Form  
-![Manual Prediction](assets\Screenshot (612).png)
+🔮 Manual Prediction Form  
+![Manual Prediction](assets/screenshot_612.png)
 
-### 📂 Batch Prediction Results  
-![Batch Prediction](assets\Screenshot (615).png)
+📂 Batch Prediction Results  
+![Batch Prediction](assets/screenshot_615.png)
 
 
-🛠 Requirements
+
+#🛠 Requirements
 Here are the required libraries for this project:
 pip install streamlit pandas numpy scikit-learn xgboost imbalanced-learn joblib matplotlib seaborn openpyxl
 
