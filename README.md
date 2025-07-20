@@ -53,7 +53,7 @@ SalaryPredictor/
 ## 🖥️ Installation & Usage
 
 ### 1️⃣ Clone the Repository
-git clone <your-repo-link>
+git clone https://github.com/Sonali-Mehta-hub/Salary_Predictor
 cd SalaryPredictor
 
 2️⃣ Install Required Libraries
