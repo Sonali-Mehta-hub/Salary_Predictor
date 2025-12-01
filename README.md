@@ -17,15 +17,17 @@ Built using **Python, Scikit-learn, XGBoost, and Streamlit**.
 
 ## 📂 Project Structure
 
-SalaryPredictor/
-│── app.py # Streamlit UI (main web app)
-│── train_model.py # Script to train and save ML model
-│── best_salary_model.pkl # Saved ML model
-│── preprocessor.pkl # Saved preprocessing pipeline
-│── dataset/
-│ └── adult.xlsx # Training dataset
-│── requirements.txt # Required libraries
-│── README.md # Project documentation
+📦 SalaryPredictor
+ ┣ 📂 dataset
+ ┃ ┗ adult.xlsx
+ ┣ 📂 models
+ ┃ ┣ best_salary_model.pkl
+ ┃ ┗ preprocessor.pkl
+ ┣ app.py
+ ┣ train_model.py
+ ┣ requirements.txt
+ ┗ README.md
+
 
 
 ---
