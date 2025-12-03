@@ -111,9 +111,7 @@ python train_model.py
 # Run the Streamlit web app
  python -m streamlit run app.py
 
- ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 Enjoy predicting salaries with AI! 💼🤖
 
